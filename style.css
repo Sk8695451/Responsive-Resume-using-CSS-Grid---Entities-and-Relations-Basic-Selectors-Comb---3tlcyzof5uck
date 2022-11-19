@@ -8,7 +8,7 @@
 .main-content{
  
     margin: 25px auto;
-    height: 1000px;
+    min-height: 1000px;
     display: grid;
     width: 90%;
     grid-template-columns: 300px 700px;
@@ -93,7 +93,7 @@ background-color: white
 }
 .skill-name{
     font-size: 0.65rem;
-    text-align: center;
+    text-align: left;
     padding-bottom: 0.5rem;
 }
 .progress-bar{
